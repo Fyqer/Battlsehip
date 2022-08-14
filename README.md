@@ -13,8 +13,8 @@ Do the same instruction on **BattleShip_Tests** folder.
  
 **How to play**
 
-1 - Set your nickname
-2 - Choose row between 1-10 and column between A-J ( if you want to see a computer board type " Give up" as a input.
+1 - Set your nickname  
+2 - Choose row between 1-10 and column between A-J ( if you want to see a computer board type " Give up" as a input.  
 3 - Play until computer ships are sunk ( 2x Destroyer - 4 squares, 1x Battlsehip - 5 squares)
 
 
