@@ -4,13 +4,13 @@ Simple console application made by C# and .NET Core 3.1 platfrom
 
 **Build**
 
-1 - Navigate to BattleShip_guestline_I folder and type : **dotnet build BattleShip_guestline_I**
-2 - Use command dotnet run **BattleShip_guestline_I**
+1 - Navigate to BattleShip_guestline_I folder and type : **dotnet build BattleShip_guestline_I**   
+2 - Use command dotnet run **BattleShip_guestline_I** 
 
 Test:
-
+ 
 Do the same instruction on **BattleShip_Tests** folder.
-
+ 
 **How to play**
 
 1 - Set your nickname
