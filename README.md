@@ -1,4 +1,4 @@
-# Battlsehip
+# Battleship
 Simple console application made by C# and .NET Core 3.1 platfrom
  as one side battlsehip game versus computer. Solution additionaly contaions a unit test project.
 
